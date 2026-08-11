@@ -1,4 +1,4 @@
-index.html
+
 запасные части агрегаты
 <html lang="ru">
 <head>
